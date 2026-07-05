@@ -46,6 +46,29 @@ The three tiers are:
 
 ---
 
+## Screenshots
+
+### VPC and Subnets
+![VPC Dashboard](vpc-dashboard.png)
+
+### EC2 Instances Running
+![EC2 Instances](ec2-instances.png)
+
+### Target Group - Both Instances Healthy
+![Target Group](target-group-healthy.png)
+
+### Load Balancer Active
+![Load Balancer](alb-active.png)
+
+### Live Application in Browser
+![Browser Test](browser-test.png)
+
+### RDS Database Available
+![RDS](rds-available.png)
+
+### Security Groups
+![Security Groups](security-groups.png)
+
 ## AWS Services Used
 
 | Service | Purpose |
